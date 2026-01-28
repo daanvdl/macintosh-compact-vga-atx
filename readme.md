@@ -36,8 +36,8 @@ gerber/plus_vga.zip
 * 1x Male 11P CH3.96 straight connector
 * 2× 660 Ω resistors
 * 1× 100 Ω resistor
-* 1× jumper (ATX power-on)
-
+* 2× 2.54mm pinheader
+* 2.54mm jumper for power-on
 
 ---
 
