@@ -32,7 +32,8 @@ gerber/plus_vga.zip
 * Raspberry Pi **Pico 1 or Pico 2**
 * Angled VGA connector
 * 4-channel level shifter
-* ATX power connector
+* 24P ATX straight connector
+* 1x Male 11P CH3.96 straight connector
 * 2× 660 Ω resistors
 * 1× 100 Ω resistor
 * 1× jumper (ATX power-on)
