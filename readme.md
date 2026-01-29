@@ -41,3 +41,17 @@ gerber/plus_vga.zip
 
 ---
 
+## Firmware source & credits
+
+The Pico firmware included in this repository is compiled from the open-source project:
+
+**mac-se-video-converter**  
+https://github.com/guruthree/mac-se-video-converter
+
+This project provides the Raspberry Pi Pico–based Macintosh video capture and VGA output implementation used on this board.
+
+The UF2 files in the `firmware/` directory were compiled from this codebase, with timing parameters and configuration selected to work reliably with Macintosh 128K / 512K / 512Ke / Plus logic boards.
+
+All credit for the original firmware and video conversion logic goes to the original author(s) of the `mac-se-video-converter` project.
+
+Please refer to the original repository for source code, license information, and further documentation.
