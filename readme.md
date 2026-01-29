@@ -21,7 +21,8 @@ When using different brands or batches of level shifters, small variations in si
 These timing differences may affect VGA signal stability or image clarity.
 
 If you experience unstable sync, noise, or an unclear image, alternative firmware builds with slightly adjusted video timing are provided in:
-* `firmware/timing_alternatives/` 
+* `firmware/timing_alternatives/`
+
 Try the alternative timing variants to achieve the best and most stable VGA output for your specific hardware configuration.
 
 ---
