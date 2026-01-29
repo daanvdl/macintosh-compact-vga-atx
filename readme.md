@@ -10,10 +10,17 @@ Ideal for troubleshooting, repair, and video capture.
 
 Prebuilt Pico firmware is included:
 
-* **Pico 1**: `firmware/mac_pico1.uf2`
-* **Pico 2**: `firmware/mac_pico2.uf2`
+* **Pico 1**: `firmware/pico1.uf2`
+* **Pico 2**: `firmware/pico2.uf2`
 
 Flash the UF2 file to the Pico using standard USB boot mode.
+
+### Signal timing note
+
+When using different brands or batches of level shifters, small variations in signal propagation delay can occur.  
+These timing differences may affect VGA signal stability or image clarity.
+
+If you experience unstable sync, noise, or an unclear image, alternative firmware builds with slightly adjusted video timing are provided in:
 
 ---
 
