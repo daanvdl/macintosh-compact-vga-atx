@@ -20,10 +20,8 @@ Flash the UF2 file to the Pico using standard USB boot mode.
 When using different brands or batches of level shifters, small variations in signal propagation delay can occur.  
 These timing differences may affect VGA signal stability or image clarity.
 
-If you experience unstable sync, noise, or an unclear image, alternative firmware builds with slightly adjusted video timing are provided in:
+If you experience unstable sync, noise, or an unclear image, try the alternative timing variants to achieve the best and most stable VGA output for your specific hardware configuration. Alternative firmware builds with slightly adjusted video timing are provided in:
 * `firmware/timing_alternatives/`
-
-Try the alternative timing variants to achieve the best and most stable VGA output for your specific hardware configuration.
 
 ---
 
